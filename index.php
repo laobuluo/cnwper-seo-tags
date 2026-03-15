@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: 自动内链关键字插件
-Plugin URI: https://www.lezaiyun.com/831.html
+Plugin URI: https://www.laojiang.me/6084.html
 Description: 自动关键字插件（CNWPer SEO Tags）,能够实现批量TAGS关键字内链、自动分布到匹配文章，以及可以批量分布管理关键字。公众号： <font color="red">老蒋朋友圈</font>
 Version: 3.2
 Author: 老蒋和他的小伙伴
-Author URI: https://www.lezaiyun.com
+Author URI: https://www.laojiang.me
 Requires PHP: 7.0
  */
 define('CNWPER_SEO_TAGS_VERSION', 3.1);
@@ -270,8 +270,8 @@ function cnwper_seo_tags_setting_page(){
     <div class="laobuluo-wbs-header" style="margin-bottom: 15px;">
               <div class="laobuluo-wbs-logo"><a><img src="<?php echo plugin_dir_url( __FILE__ );?>layui/images/logo.png"></a><span class="wbs-span">自动内链关键字插件</span><span class="wbs-free">Free V3.1</span></div>
              <div class="laobuluo-wbs-btn">
-                  <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/?utm_source=cnwperseotags-setting&utm_media=link&utm_campaign=header" target="_blank"><i class="layui-icon layui-icon-home"></i> 插件主页</a>
-                  <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/cnwper-seo-tags.html?utm_source=cnwperseotags-setting&utm_media=link&utm_campaign=header" target="_blank"><i class="layui-icon layui-icon-release"></i> 插件教程</a>
+                  <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/6084.html" target="_blank"><i class="layui-icon layui-icon-home"></i> 插件主页</a>
+                  <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/contact/" target="_blank"><i class="layui-icon layui-icon-release"></i> 技术支持</a>
              </div>
         </div>
     </div>
@@ -420,8 +420,10 @@ function cnwper_seo_tags_setting_page(){
                          
                     </div>
                      <div class="laobuluo-links">
-                                      <a href="https://www.lezaiyun.com/?utm_source=tags-setting&utm_media=link&utm_campaign=footer"  target="_blank">插件官方</a>                       
-                        <a href="https://www.lezaiyun.com/831.html?utm_source=tags-setting&utm_media=link&utm_campaign=footer"  target="_blank">使用说明</a> 
+                                     <a href="https://www.laojiang.me/"  target="_blank">老蒋玩开发</a>
+                    <a href="https://www.zhujipingjia.com/pianyivps.html" target="_blank">便宜VPS推荐</a>
+                    <a href="https://www.zhujipingjia.com/hkcn2.html" target="_blank">香港VPS推荐</a>
+                    <a href="hhttps://www.zhujipingjia.com/uscn2gia.html" target="_blank">美国VPS推荐</a>
                        
                         </div>
                        
@@ -495,8 +497,8 @@ function cnwper_seo_tags_batch_set_tags_page(){
     <div class="laobuluo-wbs-header" style="margin-bottom: 15px;">
               <div class="laobuluo-wbs-logo"><a><img src="<?php echo plugin_dir_url( __FILE__ );?>layui/images/logo.png"></a><span class="wbs-span">自动内链关键字插件</span><span class="wbs-free">Free V3.1</span></div>
             <div class="laobuluo-wbs-btn">
-                  <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/?utm_source=cnwperseotags-setting&utm_media=link&utm_campaign=header" target="_blank"><i class="layui-icon layui-icon-home"></i> 插件主页</a>
-                  <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/831.html?utm_source=cnwperseotags-setting&utm_media=link&utm_campaign=header" target="_blank"><i class="layui-icon layui-icon-release"></i> 插件教程</a>
+                  <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/6084.html" target="_blank"><i class="layui-icon layui-icon-home"></i> 插件主页</a>
+                  <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/contact/" target="_blank"><i class="layui-icon layui-icon-release"></i> 技术支持</a>
              </div>
         </div>
     </div>
@@ -638,8 +640,10 @@ function cnwper_seo_tags_batch_set_tags_page(){
                     </div>
                   <div class="laobuluo-links">
                     
-                        <a href="https://www.lezaiyun.com/?utm_source=tags-setting&utm_media=link&utm_campaign=footer"  target="_blank">插件官方</a>                       
-                        <a href="https://www.lezaiyun.com/831.html?utm_source=tags-setting&utm_media=link&utm_campaign=footer"  target="_blank">使用说明</a> 
+                      <a href="https://www.laojiang.me/"  target="_blank">老蒋玩开发</a>
+                    <a href="https://www.zhujipingjia.com/pianyivps.html" target="_blank">便宜VPS推荐</a>
+                    <a href="https://www.zhujipingjia.com/hkcn2.html" target="_blank">香港VPS推荐</a>
+                    <a href="hhttps://www.zhujipingjia.com/uscn2gia.html" target="_blank">美国VPS推荐</a>
                         
                         </div>
                        
